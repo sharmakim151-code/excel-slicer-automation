@@ -42,6 +42,12 @@ https://youtu.be/cFx_GLpdKEo
 
 ## 📸 Screenshots
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 31, 2026, 12_30_30 PM" src="https://github.com/user-attachments/assets/c457156d-52e8-4199-aa41-1859e85b5b02" />
+
+<img width="732" height="240" alt="Screenshot 2026-03-31 123210" src="https://github.com/user-attachments/assets/aaf777a7-3c92-4652-a778-172278d0a6fe" />
+
+<img width="689" height="192" alt="Screenshot 2026-03-31 123228" src="https://github.com/user-attachments/assets/0d61dc75-aa79-4618-99b9-8a8fda8ec703" />
+
 
 ---
 
